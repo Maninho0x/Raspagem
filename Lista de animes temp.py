@@ -1,4 +1,5 @@
-import requests 
+#Vinicius
+import requests #libs usadas
 from bs4 import BeautifulSoup 
 
 tituloAnime = [] 
