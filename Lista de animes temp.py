@@ -1,6 +1,6 @@
 #Vinicius
 import requests #libs usadas
-from bs4 import BeautifulSoup 
+from bs4 import BeautifulSoup # usando html parser
 
 tituloAnime = [] 
 
